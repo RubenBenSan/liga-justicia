@@ -3,8 +3,8 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Ejemplo actualizar GITHUB
 
-### Editado con Github
-Mensaje hecho con Github
+Eso
+
+
